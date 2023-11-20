@@ -6,7 +6,7 @@
 
 🛠️ Tech Stack:
 
-  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,git,firebase,appwrite,figma,ps,ai&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,git,firebase,appwrite,figma,ps,ai&theme=dark)](https://skillicons.dev)
 
   👨‍💻 Always open to collaboration and learning opportunities. Let's build something amazing together!
   
