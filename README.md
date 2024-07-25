@@ -11,4 +11,4 @@
 👨‍💻 Always open to collaboration and learning opportunities. Let's build something amazing together!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kellytomi&show_icons=true&locale=en&theme=dark" alt="kellytomi" /></p>
 
-[![John Smith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kellytomi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![John Smith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kellytomi&theme=dracula)](https://github.com/kellytomi/github-readme-activity-graph)
