@@ -11,15 +11,9 @@
 👨‍💻 Always open to collaboration and learning opportunities. Let's build something amazing together!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kellytomi&show_icons=true&locale=en&theme=dark" alt="kellytomi" /></p>
 
+## Stats📈 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#Kellytomi&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#Kellytomi" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#Kellytomi&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#your-username&theme=highcontrast&hide_border=true" alt="#your-username" />
-</p>
-
-
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#your-username&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#Kellytomi" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#your-username&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#Kellytomi" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#your-username&theme=highcontrast&hide_border=true" alt="#Kellytomi" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kellytomi&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Kellytomi" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kellytomi&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Kellytomi" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kellytomi&theme=highcontrast&hide_border=true" alt="Kellytomi" />
 </p>
