@@ -27,7 +27,7 @@ Workflow automation, document systems, and AI-assisted tools
 
 ## 🧠 Current Projects
 
-- **Docsyde** – AI-powered document workflow alternative 
+- **Docsyde** – Devin for Sales Documents 
 - **Subtrackr** – Subscription Tracking App  
 - Automation systems with Make, n8n, and APIs  
 
