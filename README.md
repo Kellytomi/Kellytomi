@@ -21,7 +21,14 @@ Workflow automation, document systems, and AI-assisted tools
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,typescript,nextjs,fastapi,javascript,html,css,docker,git,firebase,supabase,figma,ps,ai&theme=dark)](https://skillicons.dev)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org)
+[![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,typescript,nextjs,python,fastapi,javascript,html,css,postgres,docker,git,githubactions,firebase,supabase,figma,ps,ai&theme=dark)](https://skillicons.dev)
 
 ---
 
